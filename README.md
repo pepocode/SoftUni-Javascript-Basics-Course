@@ -3,6 +3,9 @@
 
 SoftUni Javascript Basics Course 2022
 
+![Certificate 1](https://user-images.githubusercontent.com/122614355/212835144-7d751a1e-ce74-45a4-87a1-5af5bf6863da.png)
+![Certificate 2](https://user-images.githubusercontent.com/122614355/212835158-b444d7f7-e0c3-4b7a-b728-ff5276d6e4e7.png)
+
 
 
 
