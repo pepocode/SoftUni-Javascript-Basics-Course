@@ -4,5 +4,5 @@
 SoftUni Javascript Basics Course 2022
 
 
-Course DIPLOMA.
-file:///D:/PEPO/JS/1.DIPLOMAS/Programming%20Basics%20-%20November%202022%20-%20Certificate.pdf
+
+
